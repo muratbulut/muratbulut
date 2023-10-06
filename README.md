@@ -4,8 +4,8 @@ I am currently studying in the Computer Engineering department at Karabuk Univer
 
 ## Social:
 
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/muraatbulut1)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/murat-bulut/)
+<a href="https://twitter.com/muraatbulut1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muraatbulut1" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/murat-bulut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murat-bulut/" height="20" width="30" /></a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muratbulut&show_icons=true&locale=en&layout=compact)
 
